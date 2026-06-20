@@ -1,0 +1,7 @@
+BotSurvival — latest release
+version=1.1.0
+installer=BotSurvival-Setup-1.1.0.exe
+download=https://github.com/BotSurvival/releases/releases/tag/v1.1.0
+manifest=latest.yml (electron-updater format — the in-app self-updater reads this)
+sha512=lxHa1nW1eJsBcp0TQ6z+pJjOl5PJvoEWe/m45ZxngMp1OBJezZ0UZ2tWMhGPs3P6ni9HX5bJ5He2OaMafxzcwQ==
+updated=2026-06-20T21:32:34.256Z
