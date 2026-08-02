@@ -1,7 +1,7 @@
 Spectre — latest release
-version=1.4.356
-installer=Spectre-Setup-1.4.356.exe
-download=https://github.com/BotSurvival/releases/releases/tag/v1.4.356
+version=1.4.358
+installer=Spectre-Setup-1.4.358.exe
+download=https://github.com/BotSurvival/releases/releases/tag/v1.4.358
 manifest=latest.yml (electron-updater format — the in-app self-updater reads this)
-sha512=uAu2yCtM53XkeImDzGlRtIK/cybloMXMwbIKsSD8lV+xzjQx+utERR4RC/iECVixHSgcRRD6mDpzVN+uSGJ84A==
-updated=2026-08-02T04:21:00.257Z
+sha512=16BWj/FjbD+ZlPR7RLctPpYIiSBgUJ+QVclQ5EXsPVQ/q9G43Ax46IUh8HYGNY6R5u6D1TGt36D0JSK/sC9VGw==
+updated=2026-08-02T15:22:58.569Z
